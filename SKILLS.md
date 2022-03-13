@@ -11,7 +11,7 @@
 | 🟩 variable          | 🟩 assignment         | 🟩 return             | 🟩 object           | 🟦 antipatterns      |
 | 🟩 constant          | 🟩 prototype          | 🟩 signature          | 🟩 collection       | 🟩 paradigm          |
 | 🟩 scalar            | 🟩 class              | 🟩 argument           | 🟩 hash table       | 🟩 algorithm         |
-| 🟩 literal           | 🟩 while              | 🟩 parameter          | 🟦 linked list      | 🟦 magic numbers     |
+| 🟩 literal           | 🟩 while              | 🟩 parameter          | 🟩 linked list      | 🟦 magic numbers     |
 | 🟩 expression        | 🟩 do..while          | 🟩 pure function      | 🟩 queue            | 🟦 hardcode          |
 | 🟩 heap              | 🟩 for                | 🟩 lambda             | 🟩 stack            | 🟦 complexity        |
 | 🟩 type              | 🟩 for..in            | 🟦 side effects       | 🟩 deque            | 🟦 decomposition     |
